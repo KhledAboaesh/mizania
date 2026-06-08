@@ -75,9 +75,9 @@
 |:------:|:-----------:|:---------:|
 | <img src="im/Screenshot_٢٠٢٦٠٦٠٨_١٥٠٤٢٦.jpg" width="200"/> | <img src="im/Screenshot_٢٠٢٦٠٦٠٨_١٥٠٤٥٤.jpg" width="200"/> | <img src="im/Screenshot_٢٠٢٦٠٦٠٨_١٥٠٥٠٢.jpg" width="200"/> |
 
-| تفاصيل العملية | الإعدادات | الفريق |
-|:--------------:|:---------:|:------:|
-| <img src="im/Screenshot_٢٠٢٦٠٦٠٨_١٥٠٥٠٦.jpg" width="200"/> | <img src="im/Screenshot_٢٠٢٦٠٦٠٨_١٥٠٥١٠.jpg" width="200"/> | <img src="im/Screenshot_٢٠٢٦٠٦٠٨_١٥٠٥١٨.jpg" width="200"/> |
+| تفاصيل العملية | الإعدادات |
+|:--------------:|:------:|
+| <img src="im/Screenshot_٢٠٢٦٠٦٠٨_١٥٠٥٠٦.jpg" width="200"/> | <img src="im/Screenshot_٢٠٢٦٠٦٠٨_١٥٠٥١٨.jpg" width="200"/> |
 
 </div>
 
